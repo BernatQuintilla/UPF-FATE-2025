@@ -13,4 +13,4 @@ They were developed for fourth year students of the bachelor degree on *Data Sci
 
 * :computer: **Notebook**: Practices to be completed by students.
 * :file_folder: **Data**: To be used during practices.
-* :file_folder: **Solved**: Solved Practices, available after submission.
+* :file_folder: **Solved**: Solved Practices, available after each deadline.
