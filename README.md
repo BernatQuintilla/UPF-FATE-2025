@@ -3,9 +3,7 @@
 
 Instructor: [Ashwin Singh](https://ashwin-19.github.io)
 
-These are materials for an undergraduate course on Fairness, Accountability, Transparency and Ethics (FATE).
-
-They were developed for fourth year students of the bachelor degree on *Data Science* at Universitat Pompeu Fabra, Barcelona.
+Repository containing programming practices for final-year undergraduate students of *Data Science* and *Computer Engineering*, enrolled in the *Fairness, Accountability, Transparency and Ethics (FATE)* Course at **Universitat Pompeu Fabra, Barcelona**. Visit the [Course Website](https://sites.google.com/view/upf-fate) for more information.
 
 ## Objective of the Sessions
 
