@@ -1,5 +1,4 @@
 # UPF-FATE-2025/2026
-## Repository for students
 
 Instructor: [Ashwin Singh](https://ashwin-19.github.io)
 
