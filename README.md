@@ -17,13 +17,11 @@ They were developed for fourth year students of the bachelor degree on *Data Sci
 ### II. Algorithmic Fairness: Regression
 
 *   Understand Bias Propagation in Regression as a consequence of Omitting Sensitive Variables.
-
 *   Implement Fairness Criteria for Regression (Counterfactual Fairness & Demographic Parity).
-
 *   Work through Case Studies to adapt Fairness Criteria to real-world scenarios.
 
 ### III. Algorithmic Fairness: Classification
-*   :construction:
+---
 
 ## Contents of this Repository
 
